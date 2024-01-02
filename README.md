@@ -1,2 +1,2 @@
-# panfunong.github.io
+# nong.github.io
 潘福浓的个人网站
